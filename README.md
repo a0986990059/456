@@ -34,8 +34,104 @@
 
 ![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%876.jpg)
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/a0986990059/456/blob/main/5.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%877.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/6.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%878.jpg)
+
+我們將用“unknown”填充缺失值。
+
+![image](https://github.com/a0986990059/456/blob/main/7.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%879.jpg)
+
+因此標籤2 類別包含COVID-19案例
+
+## 顯示影像
+
+![image](https://github.com/a0986990059/456/blob/main/8.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8710.jpg)
+
+## 視覺化
+
+![image](https://github.com/a0986990059/456/blob/main/9.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8711.jpg)
+
+## 對於COVID-19 病例
+
+![image](https://github.com/a0986990059/456/blob/main/10.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8712.jpg)
+
+## 對於正常情況
+
+![image](https://github.com/a0986990059/456/blob/main/11.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8713.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/12.png)
+
+## 數據增強
+
+![image](https://github.com/a0986990059/456/blob/main/13.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8714.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/14.png)
+
+注意：輸出太長，無法包含在文章中。這是其中的一小部分。
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8715.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/15.png)
+
+## 將所有資料轉換為張量
+
+![image](https://github.com/a0986990059/456/blob/main/16.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8716.jpg)
+
+## 產生批次
+
+![image](https://github.com/a0986990059/456/blob/main/17.png)
+
+## 使用ResNet50 進行遷移學習
+
+![image](https://github.com/a0986990059/456/blob/main/18.png)
+
+現在我們的遷移學習成功了！ ！
+
+![image](https://github.com/a0986990059/456/blob/main/19.png)
+
+## 為影像分類添加密集層
+
+![image](https://github.com/a0986990059/456/blob/main/20.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8717.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/21.png)
+
+## 預測
+
+![image](https://github.com/a0986990059/456/blob/main/22.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8719.jpg)
+
+![image](https://github.com/a0986990059/456/blob/main/23.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8720.jpg)
+
+所以正如你所看到的，預測還不錯。我們將繪製一個混淆矩陣來視覺化我們模型的表現：
+
+![image](https://github.com/a0986990059/456/blob/main/24.png)
+
+![image](https://github.com/a0986990059/456/blob/main/%E5%9C%96%E7%89%8721.jpg)
+
+## 尾註
+這個資料集很有趣，學習資料科學和機器學習越多，就越覺得這個主題很有趣。如今，我們可以透過多種方式使用數據，使用數據可以挽救無數生命。
+
